@@ -35,5 +35,13 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/masxho "Twitter")  
 <br />
  
+ ---
+ 
+ <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Maseho&show_icons=true&hide_border=true" />
+
+</details
 
   
