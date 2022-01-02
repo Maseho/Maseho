@@ -40,7 +40,7 @@
  <details>
   <summary>:zap: GitHub Stats</summary>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maseho)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maseho&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 </details
 
   
