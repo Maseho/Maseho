@@ -1,10 +1,10 @@
 # Hi there, I'm Maseho 👋 
 
 
-### I'm a 3rd Year CS Student
+### I'm a CS Student and Web Developer
 ---
 ## About Me:
--  🖋 I write blogs on [hashnode](https://randomseho.hashnode.dev/)
+-  🖋 I am yet to start writing blogs on [hashnode](https://randomseho.hashnode.dev/)
 - 🌱 I’m currently on a Frontend Web Development Journey
 - 🥅 2022 Goals: Interact more with other developers
 - ⚡ Fun fact: I love Monochrome Photography and Reading Novels
