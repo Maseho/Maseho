@@ -7,7 +7,7 @@
 -  🖋 I write blogs on [hashnode](https://randomseho.hashnode.dev/)
 - 🌱 I’m currently learning JavaScript and Kotlin
 - 🥅 2022 Goals: Interact more with other developers
-- ⚡ Fun fact: I love Monochrome Photography,Reading Manga|Manhwa, Anime and Reading Novels
+- ⚡ Fun fact: I love Monochrome Photography, <br> Reading Manga|Manhwa, Anime and Reading Novels
 
 ---
 
