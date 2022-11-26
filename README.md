@@ -5,7 +5,7 @@
 ---
 ## About Me:
 -  🖋 I write blogs on [hashnode](https://randomseho.hashnode.dev/)
-- 🌱 I’m currently learning JavaScript and Kotlin
+- 🌱 I’m currently learning JavaScript
 - 🥅 2022 Goals: Interact more with other developers
 - ⚡ Fun fact: I love Monochrome Photography, <br> Reading Manga|Manhwa, Anime and Reading Novels
 
